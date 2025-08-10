@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=400&text=Hi%20there,%20I'm%20Yujin&fontSize=70&color=0:f5d9ff,100:c4ecff&stroke=b678c4&fontColor=f6f0f7)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
